@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+:root {
+  --mocha-50: #faf7f4;
+  --mocha-100: #f4ede5;
+  --mocha-200: #e8d9c9;
+  --mocha-300: #d9bfa4;
+  --mocha-400: #c89f7b;
+  --mocha-500: #b8885d;
+  --mocha-600: #a67352;
+  --mocha-700: #8a5d45;
+  --mocha-800: #6f4d3b;
+  --mocha-900: #5a4031;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
